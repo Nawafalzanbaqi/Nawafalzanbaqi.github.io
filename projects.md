@@ -8,6 +8,8 @@ permalink: /projects/
 
 Here are the repositories that currently represent my learning and practice.
 
+---
+
 ## Git & Workflow
 
 - **git-commands-practice** – Notes and examples of daily Git commands.  
@@ -19,10 +21,14 @@ Here are the repositories that currently represent my learning and practice.
 - **git-project-simulation** – Small project that simulates a real workflow with clean commits.  
   <https://github.com/Nawafalzanbaqi/git-project-simulation>
 
-## Portfolio / Other
+---
 
-Later I will add:
+## What I will add next
+
+Soon I plan to add:
 
 - Python labs and backend mini-projects  
 - Frontend experiments and UI components  
-- Data analysis notebooks and automation scripts
+- Data analysis notebooks and automation scripts  
+
+When these projects are ready, I will organize them here with short, clear descriptions and links to each repo.
