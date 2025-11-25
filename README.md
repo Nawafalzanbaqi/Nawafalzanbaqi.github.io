@@ -19,7 +19,7 @@ I use this site to keep my learning simple, clear, and visible.
 I track what I learn every day in a dedicated repository:
 
 👉 **Daily Learning:**  
-[github.com/Nawafalzanzbaqi/Daily-Learning](https://github.com/Nawafalzanbaqi/Daily-Learning)
+[github.com/Nawafalzanbaqi/Daily-Learning](https://github.com/Nawafalzanbaqi/Daily-Learning)
 
 Each entry is short and simple:  
 **Topic → Summary**
@@ -32,15 +32,15 @@ These repositories show my Git practice and workflow:
 
 - **Git Commands Practice**  
   Short notes and examples of the Git commands I use.  
-  [github.com/Nawafalzanzbaqi/git-commands-practice](https://github.com/Nawafalzanbaqi/git-commands-practice)
+  [github.com/Nawafalzanbaqi/git-commands-practice](https://github.com/Nawafalzanbaqi/git-commands-practice)
 
 - **Git Branches Lab**  
   Practice with branches, merging, and resolving conflicts.  
-  [github.com/Nawafalzanzbaqi/git-branches-lab](https://github.com/Nawafalzanbaqi/git-branches-lab)
+  [github.com/Nawafalzanbaqi/git-branches-lab](https://github.com/Nawafalzanbaqi/git-branches-lab)
 
 - **Git Project Simulation**  
   A small project to practice real commit history and workflow.  
-  [github.com/Nawafalzanzbaqi/git-project-simulation](https://github.com/Nawafalzanbaqi/git-project-simulation)
+  [github.com/Nawafalzanbaqi/git-project-simulation](https://github.com/Nawafalzanbaqi/git-project-simulation)
 
 ---
 
