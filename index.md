@@ -5,7 +5,7 @@ title: Home
 
 # Welcome 👋
 
-I’m Nawaf, a software development student at **Tuwaiq Bootcamp**.  
+I’m **Nawaf Alzanbaqi**, a software development student at **Tuwaiq Bootcamp** in Riyadh.  
 This website is my public space to:
 
 - Learn step by step  
@@ -19,7 +19,20 @@ This website is my public space to:
 - Git & GitHub (branches, PRs, clean history)  
 - Frontend & backend basics  
 - Problem solving & clean code  
-- Documenting my progress in English
+- Documenting my progress in English  
 
-For more details about me, check **[About Me](/about/)**  
-and for repos and practice work, see **[Projects](/projects/)**.
+---
+
+## Quick Links
+
+- 👤 [About Me](/about/)  
+- 🧩 [Projects](/projects/)  
+- 📅 [Daily Log](/daily-log/)  
+
+---
+
+## Connect
+
+- GitHub: <https://github.com/Nawafalzanbaqi>  
+- LinkedIn: <https://www.linkedin.com/in/nawaf-alzanbaqi>  
+- Email: <mailto:alzanbaqinawaf@gmail.com>
