@@ -14,40 +14,39 @@
     {% endif %}
 
     {% seo %}
-
-    {%- comment -%}
-    ضع كود Google Analytics هنا لو حاب مستقبلاً
-    {%- endcomment -%}
   </head>
   <body>
     <div class="page-wrapper">
-      <aside class="sidebar">
-        <h2>{{ site.title }}</h2>
-        <p style="font-size:0.9rem;">
-          Software development.
-        </p>
-
-        <nav>
-          <a href="{{ '/' | relative_url }}">🏠 Home</a>
-          <a href="{{ '/about/' | relative_url }}">👤 About Me</a>
-          <a href="{{ '/projects/' | relative_url }}">🧩 Projects</a>
-          <a href="{{ '/daily-log/' | relative_url }}">📅 Daily Log</a>
-        </nav>
-
-        <hr>
-
+      <header class="site-header">
         <div>
-          <strong>Contact</strong><br>
-          <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
-          <a href="https://github.com/{{ site.github_username }}">GitHub</a><br>
-          <a href="{{ site.linkedin_url }}" class="btn-linkedin" target="_blank">
-            Connect on LinkedIn
-          </a>
+          <div class="site-title">
+            <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+          </div>
+          <p class="site-tagline">
+            Software development student at Tuwaiq Bootcamp.
+          </p>
         </div>
-      </aside>
+
+        <nav class="site-nav">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/about/' | relative_url }}">About</a>
+          <a href="{{ '/projects/' | relative_url }}">Projects</a>
+          <a href="{{ '/daily-log/' | relative_url }}">Daily Log</a>
+          <a href="{{ site.linkedin_url }}" class="btn-linkedin" target="_blank">LinkedIn</a>
+        </nav>
+      </header>
 
       <main class="main-content">
         {{ content }}
+
+        <footer class="site-footer">
+          <p>
+            Contact:
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+            ·
+            <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+          </p>
+        </footer>
       </main>
     </div>
   </body>
