@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome 👋
 
 I'm Nawaf, a software development student at Tuwaiq Bootcamp.
