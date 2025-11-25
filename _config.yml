@@ -1,3 +1,14 @@
 title: "Nawaf Alzanbaqi"
-description: "Software development student at Tuwaiq Bootcamp"
+description: "Software development – learning in public."
 theme: jekyll-theme-midnight
+
+url: "https://nawafalzanbaqi.github.io"
+author: "Nawaf Alzanbaqi"
+
+linkedin_url: "https://www.linkedin.com/in/nawaf-alzanbaqi"
+github_username: "Nawafalzanbaqi"
+email: "alzanbaqinawaf@gmail.com"
+
+# SEO plugin مدعوم رسميًا من GitHub Pages
+plugins:
+  - jekyll-seo-tag
