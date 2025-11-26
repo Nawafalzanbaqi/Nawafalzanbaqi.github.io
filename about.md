@@ -31,7 +31,7 @@ and add value to teams from day one.
     <ul style="margin:8px 0; padding-left:20px; font-size:0.93rem;">
       <li>JavaScript</li>
       <li>Python</li>
-      <li>}ٍٍCSS</li>
+      <li>CSS</li>
     </ul>
   </div>
 
@@ -55,7 +55,7 @@ and add value to teams from day one.
   <div style="flex:1 1 230px; min-width:230px; background:#f9f9f9; border-radius:10px; padding:14px;">
     <strong>Tools & Practices</strong>
     <ul style="margin:8px 0; padding-left:20px; font-size:0.93rem;">
-      <li>Git & GitHub (branches, PRs, reviews)</li>
+      <li>Git & GitHub</li>
       <li>Agile</li>
       <li>Problem solving & communication</li>
     </ul>
