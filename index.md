@@ -99,9 +99,47 @@ and ships products that actually solve problems.**
 
 ---
 
+---
+
 ## 🧠 Skills
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:12px; margin-top:12px; font-size:0.95rem;">
+<div style="display:flex; flex-wrap:wrap; gap:16px; margin-top:12px;">
 
-  <div style="background:#f8f8f8; border-radius:8px; padding:10px 12px;">
-    <strong>Ful
+  <div style="flex:1 1 260px; min-width:230px; background:#f9f9f9; border-radius:10px; padding:14px;">
+    <strong>Full-Stack Development</strong>
+    <ul style="margin:8px 0; padding-left:20px; font-size:0.93rem;">
+      <li>React, JavaScript</li>
+      <li>Node.js, Python</li>
+      <li>REST APIs & Web Architecture</li>
+    </ul>
+  </div>
+
+  <div style="flex:1 1 260px; min-width:230px; background:#f9f9f9; border-radius:10px; padding:14px;">
+    <strong>Data & Analysis</strong>
+    <ul style="margin:8px 0; padding-left:20px; font-size:0.93rem;">
+      <li>Python (Pandas, NumPy)</li>
+      <li>SQL & Data Cleaning</li>
+      <li>Insights & Visualization</li>
+    </ul>
+  </div>
+
+  <div style="flex:1 1 260px; min-width:230px; background:#f9f9f9; border-radius:10px; padding:14px;">
+    <strong>UI/UX Design</strong>
+    <ul style="margin:8px 0; padding-left:20px; font-size:0.93rem;">
+      <li>Wireframes & Prototypes</li>
+      <li>User Flows</li>
+      <li>Simple, Clean Interfaces</li>
+    </ul>
+  </div>
+
+  <div style="flex:1 1 260px; min-width:230px; background:#f9f9f9; border-radius:10px; padding:14px;">
+    <strong>Tools & Practices</strong>
+    <ul style="margin:8px 0; padding-left:20px; font-size:0.93rem;">
+      <li>Git & GitHub (branches, PRs)</li>
+      <li>Agile/Scrum</li>
+      <li>Problem Solving</li>
+    </ul>
+  </div>
+
+</div>
+
