@@ -110,7 +110,6 @@ and ships products that actually solve problems.**
     <ul style="margin:8px 0; padding-left:20px; font-size:0.93rem;">
       <li>React, JavaScript</li>
       <li>Node.js, Python</li>
-      <li>REST APIs & Web Architecture</li>
     </ul>
   </div>
 
@@ -119,7 +118,6 @@ and ships products that actually solve problems.**
     <ul style="margin:8px 0; padding-left:20px; font-size:0.93rem;">
       <li>Python (Pandas, NumPy)</li>
       <li>SQL & Data Cleaning</li>
-      <li>Insights & Visualization</li>
     </ul>
   </div>
 
@@ -136,7 +134,6 @@ and ships products that actually solve problems.**
     <strong>Tools & Practices</strong>
     <ul style="margin:8px 0; padding-left:20px; font-size:0.93rem;">
       <li>Git & GitHub (branches, PRs)</li>
-      <li>Agile/Scrum</li>
       <li>Problem Solving</li>
     </ul>
   </div>
