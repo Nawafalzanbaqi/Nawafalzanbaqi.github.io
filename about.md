@@ -26,4 +26,39 @@ and add value to teams from day one.
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; margin-top:12px;">
 
-  <div style="flex:1 1 230px; min-width:230px;
+  <div style="flex:1 1 230px; min-width:230px; background:#f9f9f9; border-radius:10px; padding:14px;">
+    <strong>Full-Stack Development</strong>
+    <ul style="margin:8px 0; padding-left:20px; font-size:0.93rem;">
+      <li>JavaScript</li>
+      <li>Python</li>
+      <li>}ٍٍCSS</li>
+    </ul>
+  </div>
+
+  <div style="flex:1 1 230px; min-width:230px; background:#f9f9f9; border-radius:10px; padding:14px;">
+    <strong>Data & Analysis</strong>
+    <ul style="margin:8px 0; padding-left:20px; font-size:0.93rem;">
+      <li>SQL</li>
+      <li>Data cleaning</li>
+      <li>Turning data into insights</li>
+    </ul>
+  </div>
+
+  <div style="flex:1 1 230px; min-width:230px; background:#f9f9f9; border-radius:10px; padding:14px;">
+    <strong>UI/UX & Design</strong>
+    <ul style="margin:8px 0; padding-left:20px; font-size:0.93rem;">
+      <li>User flows</li>
+      <li>Wireframes & prototypes</li>
+    </ul>
+  </div>
+
+  <div style="flex:1 1 230px; min-width:230px; background:#f9f9f9; border-radius:10px; padding:14px;">
+    <strong>Tools & Practices</strong>
+    <ul style="margin:8px 0; padding-left:20px; font-size:0.93rem;">
+      <li>Git & GitHub (branches, PRs, reviews)</li>
+      <li>Agile</li>
+      <li>Problem solving & communication</li>
+    </ul>
+  </div>
+
+</div>
