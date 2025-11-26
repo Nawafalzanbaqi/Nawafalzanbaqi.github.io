@@ -5,8 +5,6 @@ title: "Nawaf Alzanbaqi"
 
 <div style="text-align:center; padding:32px 20px; margin-bottom:40px; background:#f2f2f2; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.06);">
 
-<img src="/assets/img/profile.jpg" alt="Nawaf Alzanbaqi" style="width:110px; height:110px; border-radius:50%; object-fit:cover; margin-bottom:15px; border:3px solid #ccc;">
-
 <h1 style="margin:10px 0 5px; font-size:2rem; font-weight:700; color:#111;">
   Hi, I’m Nawaf Alzanbaqi
 </h1>
