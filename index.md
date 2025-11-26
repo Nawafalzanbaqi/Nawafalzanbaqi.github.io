@@ -21,25 +21,31 @@ title: "Welcome"
   </p>
 
   <div style="margin-top:18px;">
+
     <!-- زر About + Skills -->
-    <a href="{{ '/about/' | relative_url }}" style="margin:0 6px; padding:8px 16px; background:#2563eb; color:#fff; border-radius:6px; text-decoration:none; font-size:0.9rem;">
+    <a href="{{ '/about/' | relative_url }}" 
+       style="margin:0 6px; padding:8px 16px; background:#2563eb; color:#fff; border-radius:6px; text-decoration:none; font-size:0.9rem;">
       About & Skills
     </a>
 
-    <!-- زر Projects (بدل زر GitHub القديم) -->
-    <a href="{{ '/projects/' | relative_url }}" style="margin:0 6px; padding:8px 16px; background:#111827; color:#fff; border-radius:6px; text-decoration:none; font-size:0.9rem;">
-      Projects
+    <!-- زر GitHub الجديد -->
+    <a href="https://github.com/Nawafalzanbaqi" 
+       style="margin:0 6px; padding:8px 16px; background:#111827; color:#fff; border-radius:6px; text-decoration:none; font-size:0.9rem;">
+      GitHub
     </a>
 
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/nawaf-alzanbaqi" style="margin:0 6px; padding:8px 16px; background:#0a66c2; color:#fff; border-radius:6px; text-decoration:none; font-size:0.9rem;">
+    <a href="https://www.linkedin.com/in/nawaf-alzanbaqi" 
+       style="margin:0 6px; padding:8px 16px; background:#0a66c2; color:#fff; border-radius:6px; text-decoration:none; font-size:0.9rem;">
       LinkedIn
     </a>
 
     <!-- Email -->
-    <a href="mailto:alzanbaqinawaf@gmail.com" style="margin:0 6px; padding:8px 16px; background:#333; color:#fff; border-radius:6px; text-decoration:none; font-size:0.9rem;">
+    <a href="mailto:alzanbaqinawaf@gmail.com" 
+       style="margin:0 6px; padding:8px 16px; background:#333; color:#fff; border-radius:6px; text-decoration:none; font-size:0.9rem;">
       Email Me
     </a>
+
   </div>
 
 </div>
@@ -54,4 +60,4 @@ This website is my public portfolio where I share:
 - The projects I’m building  
 - How I use Git and real development workflows  
 
-Use the buttons above to quickly see my **About & Skills** or go directly to my **Projects**.
+Use the buttons above to quickly see my **About & Skills** or access my **GitHub** directly.
