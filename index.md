@@ -16,7 +16,7 @@ title: "Nawaf Alzanbaqi"
 </p>
 
 <p style="font-size:0.95rem; color:#555; margin-top:6px;">
-  Building clean, reliable applications using React, JavaScript, Node.js, and Python.
+  Building clean, reliable applications using React, JavaScript, Node.js, Git, Github, and Python.
 </p>
 
 <div style="margin-top:18px;">
