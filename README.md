@@ -1,74 +1,51 @@
-<h1 align="center">Nawaf Alzanbaqi</h1>
-<p align="center"><em>Learning software development in public, one step at a time.</em></p>
+# 🌐 Nawaf Alzanbaqi's Personal Website Source
 
----
+## 🌟 Project Overview
 
-## 👋 About
+This repository contains the source code for my personal website and portfolio, hosted via **GitHub Pages**. The site serves as a central hub to showcase my learning journey, technical skills, and projects developed during the **Tuwaiq Academy** bootcamp and beyond.
 
-I'm a software development bootcamp student at Tuwaiq.  
-I use this site to keep my learning simple, clear, and visible.
+The website is built using [Jekyll/Static HTML] and is designed to be a clean, simple, and consistent platform for public accountability and portfolio building.
 
-- Focus: Git, backend & frontend basics
-- Style: Small steps, clean code, consistent progress
-- Goal: Build real skills and a solid portfolio over time
+## ✨ Key Sections & Content
 
----
+The website is structured to provide a clear overview of my professional and learning trajectory:
 
-## 📅 Daily Learning Log
+- **Home (`index.md`):** Introduction and mission statement.
+- **About (`about.md`):** Detailed background, skills, and career goals.
+- **Daily Log (`daily-log.md`):** A summary and link to my daily learning journal (`Tech-Learning-Journal`).
+- **Projects (`projects.md`):** A portfolio of my key projects, including those from the Tuwaiq Academy.
 
-I track what I learn every day in a dedicated repository:
+## 🛠️ Technology Stack
 
-👉 **Daily Learning:**  
-[github.com/Nawafalzanbaqi/Daily-Learning](https://github.com/Nawafalzanbaqi/Daily-Learning)
+| Component | Technology | Purpose |
+| :--- | :--- | :--- |
+| **Hosting** | GitHub Pages | Static site hosting and deployment. |
+| **Framework** | [Jekyll/Static HTML] | Used for site generation and structure. |
+| **Content** | Markdown | Used for writing and structuring all page content. |
 
-Each entry is short and simple:  
-**Topic → Summary**
+## 🚀 Getting Started (Local Development)
 
----
+To run this website locally, you will need to have [Jekyll/Ruby] installed (if applicable).
 
-## 🧪 Git Practice
+1.  **Clone the Repository:**
+    ```bash
+    git clone https://github.com/Nawafalzanbaqi/Nawafalzanbaqi.github.io.git
+    cd Nawafalzanbaqi.github.io
+    ```
 
-These repositories show my Git practice and workflow:
+2.  **Install Dependencies (if using Jekyll ):**
+    ```bash
+    # Example for Jekyll
+    bundle install
+    ```
 
-- **Git Commands Practice**  
-  Short notes and examples of the Git commands I use.  
-  [github.com/Nawafalzanbaqi/git-commands-practice](https://github.com/Nawafalzanbaqi/git-commands-practice)
+3.  **Serve Locally:**
+    ```bash
+    # Example for Jekyll
+    bundle exec jekyll serve
+    ```
+    The site will typically be available at `http://localhost:4000`.
 
-- **Git Branches Lab**  
-  Practice with branches, merging, and resolving conflicts.  
-  [github.com/Nawafalzanbaqi/git-branches-lab](https://github.com/Nawafalzanbaqi/git-branches-lab)
+## 🤝 Contributing
 
-- **Git Project Simulation**  
-  A small project to practice real commit history and workflow.  
-  [github.com/Nawafalzanbaqi/git-project-simulation](https://github.com/Nawafalzanbaqi/git-project-simulation)
-
----
-
-## 🧩 Labs & Mini Projects
-
-As I progress through the bootcamp, I will add more labs and small projects here.
-
-Planned sections:
-
-- Python labs & mini projects  
-- JavaScript & web exercises   
-
-Stay tuned — this page will grow over time as my skills grow.
-
----
-
-## 🔧 How I Work
-
-- **Clear:** I keep my README files and commits easy to read.  
-- **Simple:** I prefer small, focused projects over big, messy ones.  
-- **Consistent:** I push progress regularly, even if it's a small step.
-
----
-
-## 📫 Contact
-
-- GitHub: [github.com/Nawafalzanbaqi](https://github.com/Nawafalzanbaqi)  
-- LinkedIn: [linkedin.com/in/nawaf-alzanbaqi](https://www.linkedin.com/in/nawaf-alzanbaqi)  
-- Email: `alzanzbaqinawaf@gmail.com`
-
-<p align="center"><sub>Clear • Simple • Consistent</sub></p>
+This is a personal portfolio site. While direct code contributions are not accepted, I welcome feedback on the design, content, or any broken links via Issues.
